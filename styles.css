@@ -1,0 +1,99 @@
+    /*
+
+    #150050
+    #3F0071
+    #610094
+
+    font-family: 'Fascinate', cursive;
+    font-family: 'Poppins', sans-serif;
+
+    */
+
+
+/************* HTML *****************/
+
+h3 {
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+/************* CLASSES *****************/
+.banner-image-galaxy {
+  border-radius: 100%;
+  margin-top: 0;
+  margin-left: 5%;
+  width: 80%;
+}
+
+.banner-heading {
+  color: #ffffff;
+  font-family: 'Fascinate', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-bottom: 2%;
+  text-align: left;
+}
+
+.btn {
+  margin-right: 2%;
+}
+
+.btn-img {
+  padding: 1%;
+}
+
+.container-fluid {
+  padding: 3% 13%;
+}
+
+.container-fluid-navbar {
+  padding: 1% 1%;
+}
+
+.feature-box {
+  padding: 1%;
+  text-align: left;
+}
+
+.features-text {
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+}
+
+.footer-text {
+  padding: 1%;
+}
+
+.icon {
+  color: #ffffff;
+  margin-bottom: 1rem;
+}
+
+.navbar-brand {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+/************* IDs *****************/
+
+
+#banner {
+  background-color: #3F0071;
+}
+
+#features {
+  background-color: #610094;
+}
+
+#footer {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 0.5%;
+  text-align: center;
+}
+
+#title {
+  background-color: #000000;
+}
